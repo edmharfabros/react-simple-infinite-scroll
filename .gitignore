@@ -1,5 +1,5 @@
 node_modules
-lib
+
 es6
 umd
 *.log
